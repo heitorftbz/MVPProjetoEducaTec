@@ -1,0 +1,5 @@
+Baixar dependências:
+   pip install -r requirements.txt
+
+Iniciar o Software:
+   streamlit run app.py
